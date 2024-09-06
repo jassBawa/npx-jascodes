@@ -1,6 +1,6 @@
 # JasCodes CLI
 
-Welcome to the ShubhCodes CLI! This tool provides a quick and stylish way to introduce Shubhankit, showcase his skills, and share his contact information.
+Welcome to the JasCodes CLI! This tool provides a quick and stylish way to introduce Shubhankit, showcase his skills, and share his contact information.
 
 ## Summary
 
